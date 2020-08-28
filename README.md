@@ -1,16 +1,32 @@
-### Hi there 👋
+### :octocat: &nbsp; Wassups!! , I'm Thiti [contact@thiti-dev.work]
 
-<!--
-**Thiti-Dev/Thiti-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🏹 &nbsp; 21 years old developer
+- 🏋️ &nbsp; Loves weight trainning / Body building (169cm,68.5kg)
+- 🖊️ &nbsp; I am a penspinner since 2012
+- ⏳ &nbsp;&nbsp;   Loves spending time with coding
+- 👄 &nbsp; Fast speaker either Thai&English
+- 🏴‍☠️ &nbsp; Typescript lover
+### 💫 &nbsp; Comfortable stacks [ descending order ]
+| 🌊 |  🦍 | 🌊 | 🎋 | 🐦 | 🦧 | 🦁 |
+|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+| <b>React</b> | <b>Express</b> | <b>React-Native</b> | <b>Vue</b> | <b>Angular</b>  | <b>Laravel</b> | <b>Nestjs(Nearly)</b> |
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎲  &nbsp; Most memorial timeline
+<pre>
+🥇 &nbsp;THE EIGHTEENTH NATIONAL SOFTWARE CONTEST 2016 [1st runner up gold medal].
+⛺️ &nbsp;TORKLA 2016.
+🔥 &nbsp;THE 11TH IT PRINCESS 2016 [final].
+🌐 &nbsp;THAILAND ICT AWARDS 2016 [🥇].
+🌏 &nbsp;ASIA PACIFIC ICT ALLIANCE 2016 [MERIT🏅].
+🖊️ &nbsp;Thailand Penspinning Tournament 2017 [🥇WON 1st]
+📜 &nbsp;BEING A STUDENT OF KING MONGKUT'S UNIVERSITY OF TECHNOLOGY THONBURI 2017.
+🏵️ &nbsp;NATIONAL OUTSTANDING YOUTH 2017.
+🏫 &nbsp;SUNGKYUNKWAN UNIVERSITY KOREA 2018 [4months♟️].
+🖥️ &nbsp;HIRED BY "FIFATARGREAN" AS FREELANCE [2019] GAME DEVELOPER [nodejs,react,vue,jquery] (4 months)[ENDED].
+💼 &nbsp;Internship at Existing Company [was postponed to 2020/December because of COVID-19].
+🗄️ &nbsp;Joined Lucky Cat Tech Solution Co., Ltd [2020].
+</pre>
+<br/><br/>
+## 📈 Stats
+![GITHUB_STAT_OVERALL](https://github-readme-stats.vercel.app/api?username=thiti-dev&show_icons=true&theme=ayu-mirage&count_private=true)
+![GITHUB_MOST_USED_LANG_STAT](https://github-readme-stats.vercel.app/api/top-langs/?username=thiti-dev&layout=compact)
