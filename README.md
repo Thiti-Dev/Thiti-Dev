@@ -9,7 +9,7 @@
 ### 💫 &nbsp; Comfortable stacks [ descending order ]
 | 🌊 |  🦍 | 🌊 | 🎋 | 🐦 | 🦧 | 🦁 |
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-| <b>React</b> | <b>Express</b> | <b>React-Native</b> | <b>Vue</b> | <b>Angular</b>  | <b>Laravel</b> | <b>Nestjs(Nearly)</b> |
+| <b>React</b> | <b>Express</b> | <b>React-Native</b> | <b>Vue</b> | <b>Angular</b>  | <b>go-fiber & gin-gonic</b> | <b>Nestjs</b> |
 
 ### 🎲  &nbsp; Most memorial timeline
 <pre>
