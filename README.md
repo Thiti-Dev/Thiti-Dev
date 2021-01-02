@@ -6,10 +6,10 @@
 - ⏳ &nbsp;&nbsp;   Loves spending time with coding
 - 👄 &nbsp; Fast speaker either Thai&English
 - 🏴‍☠️ &nbsp; Typescript lover
-### 💫 &nbsp; Comfortable stacks [ descending order ]
-| 🌊 |  🦍 | 🌊 | 🎋 | 🐦 | 🦧 | 🦁 |
+### 💫 &nbsp; Comfortable stack tools
+| 🌊 | 🌊 | 🎋 | 🐦 | 🦍 | 🦧 | 🦁 |
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-| <b>React</b> | <b>Express</b> | <b>React-Native</b> | <b>Vue</b> | <b>Angular</b>  | <b>go-fiber & gin-gonic</b> | <b>Nestjs</b> |
+| <b>React</b> | <b>React-Native</b> | <b>Vue</b> | <b>Angular</b> | <b>Express</b> | <b>go-fiber & gin-gonic</b> | <b>Nestjs</b> |
 
 ### 🎲  &nbsp; Most memorial timeline
 <pre>
