@@ -23,8 +23,8 @@
 🏵️ &nbsp;NATIONAL OUTSTANDING YOUTH 2017.
 🏫 &nbsp;SUNGKYUNKWAN UNIVERSITY KOREA 2018 [4months♟️].
 🖥️ &nbsp;HIRED BY "FIFATARGREAN" AS FREELANCE [2019] GAME DEVELOPER [nodejs,react,vue,jquery] (4 months)[ENDED].
-💼 &nbsp;Internship at Existing Company [was postponed to 2020/December because of COVID-19].
 🗄️ &nbsp;Joined Lucky Cat Tech Solution Co., Ltd [2020].
+💼 &nbsp;Internshipped at Existing Company [DECEMBER,2020 - FEB,2021].
 </pre>
 <br/><br/>
 ## 📈 Stats
