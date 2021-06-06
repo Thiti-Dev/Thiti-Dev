@@ -41,7 +41,7 @@
 <img src="https://cdn.iconscout.com/icon/free/png-256/c-sharp-2-569585.png" alt="c#" height="42px"/>
 
 
-### 🔨 Frameworks:
+### 🔨 Frameworks & Libraries:
 <img align="left" src="https://cdn.iconscout.com/icon/free/png-256/react-4-1175110.png" alt="react" height="42px"/>
 <img align="left" src="https://cdn.iconscout.com/icon/free/png-256/vuejs-3-1175070.png" alt="vue" height="42px"/>
 <img align="left" src="https://cdn.iconscout.com/icon/free/png-256/angular-3628622-3029847.png" alt="angular" height="42px"/>
