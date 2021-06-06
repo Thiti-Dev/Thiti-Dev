@@ -6,10 +6,13 @@
 - ⏳ &nbsp;&nbsp;   Loves spending time with coding
 - 👄 &nbsp; Fast speaker either Thai&English
 - 🏴‍☠️ &nbsp; Typescript lover
+
+<!---
 ### 💫 &nbsp; Comfortable stack tools
 | 🌊 | 🌊 | 🎋 | 🐦 | 🦍 | 🦧 | 🦁 |
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
 | <b>React</b> | <b>React-Native</b> | <b>Vue</b> | <b>Angular</b> | <b>Express</b> | <b>go-fiber & gin-gonic</b> | <b>Nestjs</b> |
+--->
 
 ### 🎲  &nbsp; Most memorial timeline
 <pre>
@@ -26,8 +29,35 @@
 🗄️ &nbsp;Joined Lucky Cat Tech Solution Co., Ltd [2020].
 💼 &nbsp;Internshipped at Existing Company [DECEMBER,2020 - FEB,2021].
 </pre>
-<br/><br/>
-## 📈 Stats
+
+### 🔨 Languages:
+<img align="left" src="https://cdn.iconscout.com/icon/free/png-256/typescript-3521774-2945272.png" alt="typescript" height="42px"/>
+<img align="left" src="https://cdn.iconscout.com/icon/free/png-256/javascript-1-225993.png" alt="javascript" height="42px"/>
+<img align="left" src="https://cdn.iconscout.com/icon/free/png-256/lua-3628897-3030037.png" alt="lua" height="42px"/>
+<img align="left" src="https://cdn.iconscout.com/icon/free/png-256/python-3628999-3030224.png" alt="python" height="42px"/>
+<img align="left" src="https://cdn.iconscout.com/icon/free/png-256/go-2752178-2284995.png" alt="golang" height="42px"/>
+<img align="left" src="https://cdn.iconscout.com/icon/free/png-256/rust-3627930-3029156.png" alt="rust" height="42px"/>
+<img align="left" src="https://cdn.iconscout.com/icon/free/png-256/c-4-226082.png" alt="c++" height="42px"/>
+<img src="https://cdn.iconscout.com/icon/free/png-256/c-sharp-2-569585.png" alt="c#" height="42px"/>
+
+
+### 🔨 Frameworks:
+<img align="left" src="https://cdn.iconscout.com/icon/free/png-256/react-4-1175110.png" alt="react" height="42px"/>
+<img align="left" src="https://cdn.iconscout.com/icon/free/png-256/vuejs-3-1175070.png" alt="vue" height="42px"/>
+<img align="left" src="https://cdn.iconscout.com/icon/free/png-256/angular-3628622-3029847.png" alt="angular" height="42px"/>
+<img align="left" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/nestjs_logo_icon_169927.png" alt="nestjs" height="42px"/>
+<img align="left" src="https://raw.githubusercontent.com/gin-gonic/logo/master/color.png" alt="gin-gonic" height="42px"/>
+<img src="https://gofiber.io/assets/images/logo.svg" alt="fiber" height="42px"/>
+
+### 🔨 Databases:
+<img align="left" src="https://cdn.iconscout.com/icon/free/png-256/mysql-3628940-3030165.png" alt="mysql" height="42px"/>
+<img align="left" src="https://cdn.iconscout.com/icon/free/png-256/sqlite-282687.png" alt="sqlite" height="42px"/>
+<img align="left" src="https://cdn.iconscout.com/icon/free/png-256/postgresql-11-1175122.png" alt="postgresql" height="42px"/>
+<img align="left" src="https://cdn.iconscout.com/icon/free/png-256/firebase-3521427-2944871.png" alt="firebase" height="42px"/>
+<img src="https://cdn.iconscout.com/icon/free/png-256/mongodb-3-1175138.png" alt="mongodb" height="42px"/>
+
+
+### 📈 Github-Statistic
 <!---![GITHUB_STAT_OVERALL](https://github-readme-stats.vercel.app/api?username=thiti-dev&show_icons=true&theme=material-palenight&count_private=true&include_all_commits=true&hide_title=false&line_height=21) --->
 <!--- ![GITHUB_MOST_USED_LANG_STAT](https://github-readme-stats.vercel.app/api/top-langs/?username=thiti-dev&layout=compact) --->
 <!--- ![GITHUB_MOST_USED_LANG_STAT](https://raw.githubusercontent.com/Thiti-Dev/github-stats/50dbb2ca6d0f6f98ea4040d19e22b08bebd96a5f/generated/languages.svg) --->
