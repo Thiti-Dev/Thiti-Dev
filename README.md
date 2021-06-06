@@ -28,5 +28,15 @@
 </pre>
 <br/><br/>
 ## 📈 Stats
-![GITHUB_STAT_OVERALL](https://github-readme-stats.vercel.app/api?username=thiti-dev&show_icons=true&theme=material-palenight&count_private=true&include_all_commits=true&hide_title=false&line_height=21)
-![GITHUB_MOST_USED_LANG_STAT](https://github-readme-stats.vercel.app/api/top-langs/?username=thiti-dev&layout=compact)
+<!---![GITHUB_STAT_OVERALL](https://github-readme-stats.vercel.app/api?username=thiti-dev&show_icons=true&theme=material-palenight&count_private=true&include_all_commits=true&hide_title=false&line_height=21) --->
+<!--- ![GITHUB_MOST_USED_LANG_STAT](https://github-readme-stats.vercel.app/api/top-langs/?username=thiti-dev&layout=compact) --->
+<!--- ![GITHUB_MOST_USED_LANG_STAT](https://raw.githubusercontent.com/Thiti-Dev/github-stats/50dbb2ca6d0f6f98ea4040d19e22b08bebd96a5f/generated/languages.svg) --->
+
+
+<div align="center">
+  <div style="display: flex; align-items: flex-start;">
+       <!--- <img src="https://github-readme-stats.vercel.app/api?username=thiti-dev&show_icons=true&theme=material-palenight&count_private=true&include_all_commits=true&hide_title=false&line_height=21" width="450"/> --->
+          <img src="https://raw.githubusercontent.com/Thiti-Dev/github-stats/50dbb2ca6d0f6f98ea4040d19e22b08bebd96a5f/generated/overview.svg" hegiht="400" width="400"/>
+<img src="https://raw.githubusercontent.com/Thiti-Dev/github-stats/50dbb2ca6d0f6f98ea4040d19e22b08bebd96a5f/generated/languages.svg" hegiht="400" width="400"/>
+  </div>
+</div>
