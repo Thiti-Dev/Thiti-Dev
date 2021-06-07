@@ -47,7 +47,11 @@
 <img align="left" src="https://cdn.iconscout.com/icon/free/png-256/angular-3628622-3029847.png" alt="angular" height="42px"/>
 <img align="left" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/nestjs_logo_icon_169927.png" alt="nestjs" height="42px"/>
 <img align="left" src="https://raw.githubusercontent.com/gin-gonic/logo/master/color.png" alt="gin-gonic" height="42px"/>
-<img src="https://gofiber.io/assets/images/logo.svg" alt="fiber" height="42px"/>
+<img align="left" src="https://gofiber.io/assets/images/logo.svg" alt="fiber" height="42px"/>
+<img align="left" src="https://i.morioh.com/200708/59c6699e.jpg" alt="rust-actix" height="42px"/>
+<!--- <img align="left" src="https://www.makerasia.com/wp-content/uploads/2020/03/Screen-Shot-2563-04-01-at-14.05.23.png" alt="socket-io" height="42px"/> --->
+<img align="left" src="https://i.imgur.com/oHouJ74.jpg" alt="fivem" height="42px"/>
+<img src="https://www.sovahost.net/wp-content/uploads/2020/02/samp-logo-png-6.png" alt="samp" height="42px"/>
 
 ### 🔨 Databases:
 <img align="left" src="https://cdn.iconscout.com/icon/free/png-256/mysql-3628940-3030165.png" alt="mysql" height="42px"/>
