@@ -1,21 +1,16 @@
 ### :octocat: &nbsp; Wassups!! , I'm Thiti [contact@thiti-dev.work]
 
-- 🏹 &nbsp; 21 years old developer
+- 🏹 &nbsp; 22 years old developer
 - 🏋️ &nbsp; Loves weight trainning / Body building (169cm,68.5kg)
 - 🖊️ &nbsp; I am a penspinner since 2012
-- ⏳ &nbsp;&nbsp;   Loves spending time with coding
-- 👄 &nbsp; Fast speaker either Thai&English
 - 🏴‍☠️ &nbsp; Typescript lover
-
-<!---
-### 💫 &nbsp; Comfortable stack tools
-| 🌊 | 🌊 | 🎋 | 🐦 | 🦍 | 🦧 | 🦁 |
-|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-| <b>React</b> | <b>React-Native</b> | <b>Vue</b> | <b>Angular</b> | <b>Express</b> | <b>go-fiber & gin-gonic</b> | <b>Nestjs</b> |
---->
 
 ### 🎲  &nbsp; Most memorial timeline
 <pre>
+🐣 &nbsp;Started making a SAMP private-server using pwn-lang [2011] 
+🐥 &nbsp;Making pwn-scripts for people for free at https://samp-th.net/ [2012] -> adm@admin.in.th (My email back then)
+👾 &nbsp;Making a SAMP Roleplay GameMode from fully scratch with 80% progress -> <a href="https://www.facebook.com/Project-San-Andreas-Multiplayer-Role-Play-Thailand-1390573941195512/">Official Page</a> [Dec,2013 - Jan,2014]
+👹 &nbsp;Game addicted {MMORPG,FPS,GTA-SERIES} [2014 - 2015.9]
 🥇 &nbsp;THE EIGHTEENTH NATIONAL SOFTWARE CONTEST 2016 [1st runner up gold medal].
 ⛺️ &nbsp;TORKLA 2016.
 🔥 &nbsp;THE 11TH IT PRINCESS 2016 [final].
@@ -28,6 +23,7 @@
 🖥️ &nbsp;HIRED BY "FIFATARGREAN" AS FREELANCE [2019] GAME DEVELOPER [nodejs,react,vue,jquery] (4 months)[ENDED].
 🗄️ &nbsp;Joined Lucky Cat Tech Solution Co., Ltd [2020].
 💼 &nbsp;Internshipped at Existing Company [DECEMBER,2020 - FEB,2021].
+👨🏿‍💻 &nbsp;Working at OneWorkAI as a FullStack-Dev [August,2021 - Present]
 </pre>
 
 ### 🔨 Languages:
