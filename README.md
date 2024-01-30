@@ -1,7 +1,7 @@
 ### :octocat: &nbsp; Wassups!! , I'm Thiti [contact@thiti-dev.work]
 
-- 🏹 &nbsp; 22 years old developer
-- 🏋️ &nbsp; Loves weight trainning / Body building (169cm,68.5kg)
+- 🏹 &nbsp; 25 years old software developer
+- 🏋️ &nbsp; Loves weight training / Bodybuilding (170cm,78kg) (pretty bulky right now!)
 - 🖊️ &nbsp; I am a penspinner since 2012
 - 🏴‍☠️ &nbsp; Typescript lover
 
@@ -23,7 +23,8 @@
 🖥️ &nbsp;HIRED BY "FIFATARGREAN" AS FREELANCE [2019] GAME DEVELOPER [nodejs,react,vue,jquery] (4 months)[ENDED].
 🗄️ &nbsp;Joined Lucky Cat Tech Solution Co., Ltd [2020].
 💼 &nbsp;Internshipped at Existing Company [DECEMBER,2020 - FEB,2021].
-👨🏿‍💻 &nbsp;Working at OneWorkAI as a FullStack-Dev [August,2021 - Present]
+👨🏿‍💻 &nbsp;Working at OneWorkAI as a FullStack-Dev [August,2021 - March 2023]
+👣 &nbsp;Playing more with Go, Rust, Scala, Elixir | also getting back into lifting industry 💪 [April 2023 - Present]
 </pre>
 
 ### 🔨 Languages:
